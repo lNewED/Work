@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Email  Please enter a valid email address</name>
+   <tag></tag>
+   <elementGuidId>5cede3e9-addb-4642-b473-d4ef5a197916</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item-vfb-14']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item-vfb-14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0f914e8f-5a37-4679-a563-2598e24dc074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-item vfb-item-email  </value>
+      <webElementGuid>03939b78-2acb-43aa-bcf4-ac119011baef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>item-vfb-14</value>
+      <webElementGuid>96f7527e-0d92-4e6b-94cb-4367758c4d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email  *Please enter a valid email address.</value>
+      <webElementGuid>c3a6f0e6-12ed-4789-a93d-bd65b0ad0f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-14&quot;)</value>
+      <webElementGuid>4a0aecc7-e64d-4f14-821b-bc93d2b621c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='item-vfb-14']</value>
+      <webElementGuid>31babd92-3029-431e-b556-9c917d66d276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='item-vfb-1']/ul/li[5]</value>
+      <webElementGuid>1f05479c-6d03-43da-9451-112d2f56665f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::li[1]</value>
+      <webElementGuid>ff961481-c954-4988-8e58-4c444929e219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal / Zip Code'])[1]/following::li[1]</value>
+      <webElementGuid>0bc5a090-2c2d-4f71-a7c5-a755d2b2860b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/ul/li[5]</value>
+      <webElementGuid>567881a9-52b1-485e-af34-95b553c0c9cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'item-vfb-14' and (text() = 'Email  *Please enter a valid email address.' or . = 'Email  *Please enter a valid email address.')]</value>
+      <webElementGuid>a91ffdeb-7eb7-43a8-bd64-b8aa60e27dc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
